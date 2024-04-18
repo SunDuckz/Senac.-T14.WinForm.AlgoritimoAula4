@@ -7,9 +7,10 @@
 
 Abaixo um exemplo de operador lógico
 
-'''
+```
 bool contaPaga = true;
 if(contaPaga){
   Console.WriteLine("imprimir comprovante");
 }
-'''
+``` 
+s
