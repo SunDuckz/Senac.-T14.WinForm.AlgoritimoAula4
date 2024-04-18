@@ -4,3 +4,12 @@
 - Operadores Númericos
 - Palavras Chave
 - Estrutura do projeto windows forms
+
+Abaixo um exemplo de operador lógico
+
+'''
+bool contaPaga = true;
+if(contaPaga){
+  Console.WriteLine("imprimir comprovante");
+}
+'''
